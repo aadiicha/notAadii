@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @notAadii
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
